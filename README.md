@@ -1,4 +1,4 @@
-# DotnetosWebinars materials
+# Dotnetos Webinars - materials
 
 Source code from various Dotnetos Webinars.
 
